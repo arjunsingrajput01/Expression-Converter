@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1625645386 source:d:\c++\final merge\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	<malloc.h>
+	"from postfix.h"
+
+1625645460 d:\c++\final merge\from postfix.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<malloc.h>
+
